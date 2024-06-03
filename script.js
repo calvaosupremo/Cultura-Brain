@@ -9,11 +9,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Não conhecia, muito legal! Quero conhecer mais!",
-                afirmacao: "Verdadeira"
+                afirmacao: "Correta"
             },
             {
                 texto: "Já conhecia, quero algo novo!",
-                afirmacao: "Falsa"
+                afirmacao: "Errada"
             }
         ]
     },
